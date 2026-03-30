@@ -1,4 +1,4 @@
-"""
+""" 
 Solar Energy Justice Index (SEJI)
 A Nationwide WebGIS Platform for Mapping Solar Potential and Energy Equity in Indonesia's 3T Regions
 """
